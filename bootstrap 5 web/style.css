@@ -1,0 +1,27 @@
+#home {
+  margin-top: 3rem;
+  padding-top: 10rem;
+  background-image: url(img/banner.jpg);
+  padding-bottom: 10rem;
+}
+#profile {
+  margin-top: 3rem;
+  padding-top: 5rem;
+}
+#harga {
+  padding-top: 5rem;
+  background-color: rgb(137, 174, 241);
+}
+
+#project {
+  padding-top: 5rem;
+}
+#contact {
+  background-color: rgb(137, 174, 241);
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.profileimg {
+  width: 550px;
+  height: 300px;
+}
